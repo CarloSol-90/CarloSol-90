@@ -56,7 +56,6 @@ Soy un estudiante de Front. Me gusta codificar, diseñar, innovar y experimentar
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 </br>
-</br>
 
   <h3><b>😄 Contactame</b></h3>
   </div>

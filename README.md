@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Carlos Soler!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
-Soy un junior de Front. Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta afrontar nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y positividad.
+Soy un estudiante de Front. Me gusta codificar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta afrontar nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y positividad.
 <br>
 
 <pre>

@@ -41,7 +41,7 @@ Soy un estudiante de Front. Me gusta codificar, diseñar, innovar y experimentar
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,mysql,jquery,sass,less,gulp" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,mysql" />
     <img src="https://skillicons.dev/icons?i=jquery,sass,less,gulp" />
   </a>
 </p>

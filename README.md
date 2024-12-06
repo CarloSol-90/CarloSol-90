@@ -33,7 +33,7 @@ Soy un estudiante de Front. Me gusta codificar, diseñar, innovar y experimentar
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,bootstrap,tailwind" />
   </a>
 </p>
 

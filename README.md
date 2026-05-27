@@ -72,4 +72,4 @@ Soy un estudiante de Front. Me gusta codificar, diseñar, innovar y experimentar
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
-Actualizado: 20/03/2024
+Actualizado: 27/05/2026

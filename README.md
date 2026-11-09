@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:102A43&amp;height=190&amp;section=header&amp;text=Carlos%20Soler&amp;fontSize=46&amp;fontColor=38BDF8&amp;desc=Full%20Stack%20Developer%20%7C%20Murcia%2C%20Spain&amp;descSize=18&amp;descAlignY=72&amp;animation=none" alt="Carlos Soler — Full Stack Developer based in Murcia, Spain" />
+  <img width="100%" src="assets/carlos-soler-header.png" alt="Carlos Soler — Full Stack Developer based in Murcia, Spain" />
 </p>
 
 <p align="center">
